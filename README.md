@@ -6,10 +6,12 @@
           
           - Gmail => bakshirishab90@gmail.com
           - LinkedIn => https://www.linkedin.com/in/rishabhkbakshi/
+          - Quora => https://www.quora.com/profile/Rishabh-Bakshi
           - Skype => rishabhkbakshi
           - Whatsapp => 8882278919
           - Facebook => https://www.facebook.com/rishabhkbakshi/
           - Instagram => https://www.instagram.com/rishabhkbakshi/
+          - Twitter => https://twitter.com/rishabhkbakshi
           
 
 <!---
