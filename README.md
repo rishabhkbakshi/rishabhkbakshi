@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabhkbakshi
 - 👀 I’m interested in coding (spacially automation testing coding)
-- 🌱 I’m currently learning to solve the puzzle type programming problem (https://codingbat.com/)
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on other automation project
 - 📫 How to reach me
           
