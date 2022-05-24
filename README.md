@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishabhkbakshi
 - 👀 I’m interested in coding (spacially automation testing coding)
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on front-end development project(Angu
+- 💞️ I’m looking to collaborate on front-end development project(Angular)
 - 📫 How to reach me
           
           - Gmail => bakshirishab90@gmail.com
