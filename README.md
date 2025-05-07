@@ -1,21 +1,36 @@
+# 👋 Hi, I’m Rishabh Bakshi (@rishabhkbakshi)
 
+## 👀 About Me
+- Passionate about **coding**, with a special interest in **automation testing** and **front-end development**.
+- Currently exploring and learning **React.js** to enhance my development skills.
+- Open to collaborating on **front-end development projects**, especially with **Angular**.
 
-- 👋 Hi, I’m @rishabhkbakshi
-- 👀 I’m interested in coding (spacially automation testing coding)
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on front-end development project(Angular)
-- 📫 How to reach me
-          
-    - Gmail => bakshirishab90@gmail.com
-    - LinkedIn => https://www.linkedin.com/in/rishabhkbakshi/
-    - Quora => https://www.quora.com/profile/Rishabh-Bakshi
-    - Skype => rishabhkbakshi
-    - Facebook => https://www.facebook.com/rishabhkbakshi/
-    - Instagram => https://www.instagram.com/rishabhkbakshi/
-    - Twitter => https://twitter.com/rishabhkbakshi
-          
+---
 
-<!---
-rishabhkbakshi/rishabhkbakshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 What I’m Learning
+- **React.js**: Building dynamic and interactive user interfaces.
+- **Advanced JavaScript**: Deepening my understanding of JavaScript concepts and best practices.
+
+---
+
+## 💞️ Collaboration Interests
+- Looking to collaborate on **front-end development projects**.
+- Interested in contributing to **open-source projects** and learning from the community.
+
+---
+
+## 📫 How to Reach Me
+Feel free to connect with me on any of the following platforms:
+
+- **Gmail**: [bakshirishab90@gmail.com](mailto:bakshirishab90@gmail.com)
+- **LinkedIn**: [Rishabh Bakshi](https://www.linkedin.com/in/rishabhkbakshi/)
+- **Quora**: [Rishabh Bakshi](https://www.quora.com/profile/Rishabh-Bakshi)
+- **Skype**: rishabhkbakshi
+- **Teams**: bakshirishab90@gmail.com
+- **Facebook**: [Rishabh Bakshi](https://www.facebook.com/rishabhkbakshi/)
+- **Instagram**: [@rishabhkbakshi](https://www.instagram.com/rishabhkbakshi/)
+- **X**: [@rishabhkbakshi](https://x.com/rishabhkbakshi)
+
+---
+
+✨ This repository is a reflection of my journey as a developer. Feel free to explore, contribute, or connect with me! 🚀
