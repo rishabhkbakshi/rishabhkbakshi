@@ -26,7 +26,7 @@ Feel free to connect with me on any of the following platforms:
 - **LinkedIn**: [Rishabh Bakshi](https://www.linkedin.com/in/rishabhkbakshi/)
 - **Quora**: [Rishabh Bakshi](https://www.quora.com/profile/Rishabh-Bakshi)
 - **Skype**: rishabhkbakshi
-- **Teams**: 'bakshirishab90@gmail.com'
+- **Teams**: bakshirishab90@gmail.com
 - **Facebook**: [Rishabh Bakshi](https://www.facebook.com/rishabhkbakshi/)
 - **Instagram**: [@rishabhkbakshi](https://www.instagram.com/rishabhkbakshi/)
 - **X**: [@rishabhkbakshi](https://x.com/rishabhkbakshi)
